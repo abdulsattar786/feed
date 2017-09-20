@@ -1,0 +1,35 @@
+.list-item{
+	position:relative;
+	
+}
+.list-item .btn{
+	width:200px;
+}
+.list-item a{
+	text-decoration:none;
+}
+.list-item .sub-title{
+	font-size:25px;
+	margin:20px auto;
+}
+.list-item .sub-title, .list-item .desc{
+	text-align:center;
+}
+.list-item .desc{
+	font-size:12px;
+	margin:20px auto;
+}
+.list-item img{
+	margin:10px auto;
+	display:block;
+}
+
+.list-item .btn:hover{
+	background:#aeaeae;
+	color:#000;
+}
+
+.dropdown-menu
+{
+	position:relative;
+}
